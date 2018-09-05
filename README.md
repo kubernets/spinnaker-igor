@@ -17,3 +17,11 @@ use shell script to pull docker image and replace origin tag
     > docker tag kubernets/spinnaker-igor:0.9.0-20180221133510 gcr.io/spinnaker-marketplace/igor:0.9.0-20180221133510 
 
     > docker rmi kubernets/spinnaker-igor:0.9.0-20180221133510
+
+- [**all** 0.12.0-20180726022808](https://hub.docker.com/r/kubernets/spinnaker-igor)
+
+    > docker pull kubernets/spinnaker-igor:0.12.0-20180726022808
+
+    > docker tag kubernets/spinnaker-igor:0.12.0-20180726022808 gcr.io/spinnaker-marketplace/igor:0.12.0-20180726022808 
+
+    > docker rmi kubernets/spinnaker-igor:0.12.0-20180726022808
